@@ -13,15 +13,16 @@ In addition to academic experience, I also engage in:
 
 ## Technical Skills:
 
-<div style="overflow-x: auto;">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_postgresql_icon_130108.png" alt="Postgresql" width="100" height="100">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" alt="Python" width="100" height="100">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="100" height="100">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130153.png" alt="SQLAlchemy" width="100" height="100">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nginx_icon_130225.png" alt="Nginx" width="100" height="100">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="Docker" width="100" height="100">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_redis_icon_130181.png" alt="Redis" width="100" height="100">
+<div style="display: flex; overflow-x: auto;">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_postgresql_icon_130108.png" alt="Postgresql" style="width: auto; height: 100px;">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" alt="Python" style="width: auto; height: 100px;">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" style="width: auto; height: 100px;">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130153.png" alt="SQLAlchemy" style="width: auto; height: 100px;">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nginx_icon_130225.png" alt="Nginx" style="width: auto; height: 100px;">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="Docker" style="width: auto; height: 100px;">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_redis_icon_130181.png" alt="Redis" style="width: auto; height: 100px;">
 </div>
+
 
 I successfully apply these tools in backend development.
 
