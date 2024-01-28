@@ -1,4 +1,4 @@
-# Hello there!
+# Hello, I'm Alexey!
 
 ## About Me:
 I'm a web and multimedia applications developer by profession.
@@ -11,15 +11,17 @@ In addition to academic experience, I also engage in:
 - Personal and commercial projects
 - Organizing and conducting web development workshops
 
-## Technical Skills ⚡:
-My primary technology stack includes:
-- Postgresql
-- Python
-- FastAPI (with experience in Django)
-- SQLAlchemy
-- Nginx
-- Docker
-- Redis
+## Technical Skills:
+
+<div style="overflow-x: auto;">
+  <img src="https://yourwebsite.com/postgresql.png" alt="Postgresql" width="100" height="100">
+  <img src="https://yourwebsite.com/python.png" alt="Python" width="100" height="100">
+  <img src="https://yourwebsite.com/fastapi.png" alt="FastAPI" width="100" height="100">
+  <img src="https://yourwebsite.com/sqlalchemy.png" alt="SQLAlchemy" width="100" height="100">
+  <img src="https://yourwebsite.com/nginx.png" alt="Nginx" width="100" height="100">
+  <img src="https://yourwebsite.com/docker.png" alt="Docker" width="100" height="100">
+  <img src="https://yourwebsite.com/redis.png" alt="Redis" width="100" height="100">
+</div>
 
 I successfully apply these tools in backend development.
 
@@ -31,4 +33,3 @@ Currently, I'm actively expanding my programming skills, focusing on deepening m
 - Email: vollkovalex1991@mail.ru
 
 Feel free to reach out! Let's connect and create amazing things together! 🚀
-
