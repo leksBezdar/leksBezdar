@@ -1,21 +1,34 @@
-### Hi there 👋
+# Hello there!
 
+## About Me:
+I'm a web and multimedia applications developer by profession.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+## Education and Experience:
+During my studies, I actively participated in various competitions and events, both as an independent developer and as part of a team. Throughout the course, I completed a number of projects related to web development, which allowed me to gain not only theoretical but also practical skills.
 
-<!--
-**leksBezdar/leksBezdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In addition to academic experience, I also engage in:
+- Hackathons
+- Personal and commercial projects
+- Organizing and conducting web development workshops
 
-Here are some ideas to get you started:
+## Technical Skills ⚡:
+My primary technology stack includes:
+- Postgresql
+- Python
+- FastAPI (with experience in Django)
+- SQLAlchemy
+- Nginx
+- Docker
+- Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I successfully apply these tools in backend development.
+
+## Continuous Learning:
+Currently, I'm actively expanding my programming skills, focusing on deepening my knowledge of the Python language and studying Golang. I pay special attention to building effective application architectures and maintaining clean code structure, which I consider essential for creating high-quality, maintainable software.
+
+## Get in Touch:
+- Telegram: [@bezdarnost_forever](https://t.me/bezdarnost_forever)
+- Email: vollkovalex1991@mail.ru
+
+Feel free to reach out! Let's connect and create amazing things together! 🚀
+
