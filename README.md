@@ -14,13 +14,13 @@ In addition to academic experience, I also engage in:
 ## Technical Skills:
 
 <div style="overflow-x: auto;">
-  <img src="https://yourwebsite.com/postgresql.png" alt="Postgresql" width="100" height="100">
-  <img src="https://yourwebsite.com/python.png" alt="Python" width="100" height="100">
-  <img src="https://yourwebsite.com/fastapi.png" alt="FastAPI" width="100" height="100">
-  <img src="https://yourwebsite.com/sqlalchemy.png" alt="SQLAlchemy" width="100" height="100">
-  <img src="https://yourwebsite.com/nginx.png" alt="Nginx" width="100" height="100">
-  <img src="https://yourwebsite.com/docker.png" alt="Docker" width="100" height="100">
-  <img src="https://yourwebsite.com/redis.png" alt="Redis" width="100" height="100">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_postgresql_icon_130108.png" alt="Postgresql" width="100" height="100">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" alt="Python" width="100" height="100">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="100" height="100">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130153.png" alt="SQLAlchemy" width="100" height="100">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nginx_icon_130225.png" alt="Nginx" width="100" height="100">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="Docker" width="100" height="100">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_redis_icon_130181.png" alt="Redis" width="100" height="100">
 </div>
 
 I successfully apply these tools in backend development.
