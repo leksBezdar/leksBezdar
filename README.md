@@ -1,6 +1,5 @@
 # Hello, I'm Alexey!
 
-## About Me:
 I'm a web and multimedia applications developer by profession.
 
 ## Education and Experience:
