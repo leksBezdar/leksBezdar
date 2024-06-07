@@ -17,13 +17,15 @@ class WebDeveloper:
         """
         self.technical_skills = """
         My primary technology stack includes:
-        - Postgresql
+        - SQL/NoSQL
         - Python
-        - FastAPI (with experience in Django)
+        - FastAPI
+        - Django / Django-ninja
         - SQLAlchemy
         - Nginx
-        - Docker
+        - Docker / Docker-compose 
         - Redis
+        - Kafka
         """
         
         self.contact_info = """
